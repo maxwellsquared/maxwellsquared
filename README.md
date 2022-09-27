@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @maxwellsquared
 - 👀 I’m interested in VR/AR, music/sound design, and vidya games
 - 🌱 I’m currently learning how to ferment foods
-- 💞️ I’m not looking to collaborate atm
-- 📫 How to reach me ... please do not!
+- 💞️ I like collaborating on fun, snappy projects where I can learn something new!
+- 📫 How to reach me: www.linkedin.com/in/kuhnmax
 
 <!---
 maxwellsquared/maxwellsquared is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
