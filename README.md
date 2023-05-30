@@ -1,6 +1,10 @@
+*Spring 2K23 Update:*
+I've been spending most of my free time building a 3D game in C# and Unity. You won't see commit history here yet, but if you're curious please read my devlog over at https://www.maxkuhn.ca/game/
+
+
 - 👋 Hi, I’m Max!
-- 👀 I’m interested in VR/AR, music/sound design, and vidya games
-- 🌱 I’m currently learning how to ferment foods
+- 👀 I’m interested in VR/AR, AI, accessibility, music/sound design, and games
+- 🌱 I’m currently learning linear algebra and how to play drums
 - 💞️ I like collaborating on fun, snappy projects where I can learn something new!
 - 📫 How to reach me: www.linkedin.com/in/kuhnmax
 
