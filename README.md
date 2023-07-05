@@ -1,4 +1,4 @@
-*Spring 2K23 Update:*
+*Spring/Summer 2K23 Update:*
 I've been spending most of my free time building a 3D game in C# and Unity. You won't see commit history here yet, but if you're curious please read my devlog over at https://www.maxkuhn.ca/game/
 
 
