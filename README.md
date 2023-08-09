@@ -1,5 +1,6 @@
 *Summer 2K23 Update:*
-I've been spending most of my free time building a 3D game in C# and Unity, hence the lack of commit history lately.
+I've been spending most of my free time building a 3D game in C# and Unity! Check out my devlog at [maxkuhn.ca/game](https://maxkuhn.ca/game)
+
 
 - 👋 Hi, I’m Max!
 - 👀 I’m interested in VR/AR, AI, accessibility, music/sound design, and games
